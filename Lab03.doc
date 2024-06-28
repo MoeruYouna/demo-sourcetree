@@ -2,6 +2,49 @@
 2.	GitHub: GitHub là một dịch vụ lưu trữ mã nguồn trực tuyến, cho phép bạn lưu trữ, quản lý và chia sẻ mã nguồn của dự án, cũng như làm việc cộng tác với các thành viên khác trong dự án.
 3.	SourceTree: công cụ giao diện để làm việc với GitHub
 
+Dưới đây là một số chức năng chính của GitHub:
+
+1 - Quản lý mã nguồn (Repository Management):
+
+Repository: Là nơi lưu trữ mã nguồn của một dự án. Mỗi repository có thể chứa nhiều file và thư mục.
+Branching: Tạo nhánh (branch) để phát triển các tính năng mới hoặc sửa lỗi mà không ảnh hưởng đến mã nguồn chính.
+Merging: Kết hợp mã nguồn từ các nhánh khác nhau vào nhánh chính sau khi hoàn tất và kiểm tra kỹ càng.
+
+2 - Collaboration:
+
+Pull Request (PR): Gửi yêu cầu để merge mã nguồn từ một nhánh sang nhánh khác. PR thường được sử dụng để review mã trước khi merge.
+Code Review: Cho phép các thành viên trong nhóm xem xét, bình luận và cải thiện mã nguồn thông qua các PR.
+Issues: Công cụ để theo dõi lỗi, đề xuất tính năng mới và các công việc cần làm khác. Issues có thể được gán cho các thành viên trong nhóm và được tổ chức theo nhãn (label) và milestone.
+
+3 - Continuous Integration/Continuous Deployment (CI/CD):
+
+GitHub Actions: Công cụ tự động hóa quy trình làm việc. Cho phép thiết lập các workflow để tự động hóa việc build, test và deploy mã nguồn khi có thay đổi.
+
+4 - Documentation:
+
+README.md: Tập tin README thường chứa thông tin giới thiệu về dự án, cách cài đặt và sử dụng.
+Wiki: Mỗi repository có một trang wiki đi kèm để lưu trữ tài liệu chi tiết hơn về dự án.
+
+5 - Security:
+
+Dependabot: Công cụ tự động kiểm tra và cập nhật các dependencies để giảm thiểu rủi ro bảo mật.
+Code Scanning: Kiểm tra mã nguồn để phát hiện các lỗ hổng bảo mật và lỗi lập trình.
+
+6 - Project Management:
+
+Projects: Bảng Kanban để quản lý các công việc trong dự án. Cho phép sắp xếp các issues, pull requests và ghi chú theo các cột để theo dõi tiến độ công việc.
+Milestones: Tạo các mốc thời gian (milestones) để tổ chức và theo dõi tiến độ của các tập hợp issues.
+
+7 - Social Coding:
+
+Forking: Tạo một bản sao của repository để phát triển độc lập. Fork thường được sử dụng trong cộng đồng mã nguồn mở để đóng góp vào các dự án khác.
+Stars: Đánh dấu các repository yêu thích để dễ dàng theo dõi và tìm lại sau này.
+Watching: Theo dõi các repository để nhận thông báo về các thay đổi và hoạt động mới.
+
+8 - GitHub Pages:
+
+GitHub Pages: Dịch vụ lưu trữ website tĩnh trực tiếp từ repository. Thường được sử dụng để tạo website tài liệu hoặc blog cho dự án.
+
 SourceTree là một ứng dụng quản lý mã nguồn miễn phí được phát triển bởi Atlassian, giúp người dùng làm việc với hệ thống quản lý 
 phiên bản Git và Mercurial thông qua giao diện đồ họa (GUI) thay vì dòng lệnh (CLI). SourceTree hỗ trợ cả hệ điều hành Windows 
 và macOS, và đặc biệt hữu ích cho những người mới bắt đầu sử dụng Git hoặc muốn một cách dễ dàng hơn để quản lý kho mã nguồn.
